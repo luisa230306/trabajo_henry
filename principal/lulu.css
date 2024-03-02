@@ -1,0 +1,63 @@
+body{
+    background-image: url("../img/fondo.jpg");
+
+    
+
+}
+.img2{
+    width: 100px;
+    height: 100px;
+    padding: 40px 65vh;
+}
+
+.container{
+    background-color: white;
+    width: 145vh;
+    height: 150vh;
+    position: relative;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    left: 35vh;
+
+    
+}
+.boton{
+    padding: 10px 65px;
+    background-color: rgb(241, 154, 206);
+}
+.btn{
+
+    padding: 5px 10px;
+    color: rgb(27, 25, 25);
+    background-color: rgb(74, 180, 255);
+    border-radius: 5px;
+    
+}
+img{
+    padding:10px 30px ;
+    width: 60vh;
+    height: 60vh;
+}
+.parrafo{
+    padding:5px 30px ;
+    
+    
+}
+.lista{
+     text-align: center;
+}
+.footer{
+    margin-top: 40vh;
+    width: 100%;
+    height: 45px;
+    background-color: rgb(255, 184, 184);
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+
+
+
+
